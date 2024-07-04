@@ -1,7 +1,7 @@
 # _Automated Color Filter Production Line_
 
 ## Programmers
-- _[Lim Jia Xiang]()_
+- _[Lim Jia Xiang](https://github.com/MrJs-57)_
 - _[Liew Ming Heng](https://github.com/MH-Electronic)_
 
 ## Code Programs

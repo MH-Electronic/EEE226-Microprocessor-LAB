@@ -1,8 +1,8 @@
 # _Automated Color Filter Production Line_
 
 ## Programmers
-- _Lim Jia Xiang []_
-- _Liew Ming Heng [https://github.com/MH-Electronic]_
+- _[Lim Jia Xiang]()_
+- _[Liew Ming Heng](https://github.com/MH-Electronic)_
 
 ## Code Programs
 **8051 Microcontroller**
